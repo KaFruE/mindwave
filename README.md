@@ -3,7 +3,7 @@
 
 ---------------------------
 
-1. ChangePictureWithMindwave
+## 1. ChangePictureWithMindwave
 
 ![noname01](https://user-images.githubusercontent.com/34204786/51887573-b1d55600-23d7-11e9-8fa7-42421ab9554b.png)
 
@@ -19,7 +19,7 @@
 
 ---------------------------
 
-2. DrawLineWithMindwave
+## 2. DrawLineWithMindwave
 
 ![noname02](https://user-images.githubusercontent.com/34204786/51887581-b69a0a00-23d7-11e9-89b1-81d96ff5e8d1.png)
 
@@ -32,7 +32,7 @@
 
 ---------------------------
 
-3. DrawPictureWithMindwave
+## 3. DrawPictureWithMindwave
 
 ![noname03](https://user-images.githubusercontent.com/34204786/51887584-ba2d9100-23d7-11e9-9da8-ecb658b79e0c.png)
 
@@ -43,7 +43,7 @@
 
 상세 내용 : 사용되는 8개의 값 중 제일 큰 값이 지정해놓은 방향으로 색을 입힘.
 
-색은 명상력에 따라 변경
+# 색은 명상력에 따라 변경
 
 명상력 80 이상 : 보라색
 명상력 70 이상 : 파랑색
@@ -68,7 +68,7 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 
 ---------------------------
 
-4. DrawSpiralWithMindwave
+## 4. DrawSpiralWithMindwave
 
 ![noname04](https://user-images.githubusercontent.com/34204786/51887585-ba2d9100-23d7-11e9-9215-13734a007f1a.png)
 
@@ -93,7 +93,7 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 
 ---------------------------
 
-5. GraphWithMindwave
+## 5. GraphWithMindwave
 
 ![noname05](https://user-images.githubusercontent.com/34204786/51887586-bac62780-23d7-11e9-86b9-16f759d39331.png)
 
@@ -122,7 +122,7 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 
 ---------------------------
 
-6. DrawCircleSpiralWithMindwave
+## 6. DrawCircleSpiralWithMindwave
 
 ![noname07](https://user-images.githubusercontent.com/34204786/51887583-b994fa80-23d7-11e9-8a66-2f66921d8305.png)
 
@@ -138,7 +138,7 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 
 ---------------------------
 
-7. RandomSquareWithMindwave
+## 7. RandomSquareWithMindwave
 
 ![noname06](https://user-images.githubusercontent.com/34204786/51887587-bac62780-23d7-11e9-98b8-cff84d04cc82.png)
 
