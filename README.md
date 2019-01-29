@@ -14,6 +14,8 @@
 10000 이상 100000 이하 : 그대로 출력
 100000 이상 : RGB 중 R의 값을 0으로 변경
 
+---------------------------
+
 2. DrawLineWithMindwave
 
 ![noname02](https://user-images.githubusercontent.com/34204786/51887581-b69a0a00-23d7-11e9-89b1-81d96ff5e8d1.png)
