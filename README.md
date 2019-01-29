@@ -1,6 +1,8 @@
 # mindwave
 마인드웨이브를 활용한 그림그리기
 
+---------------------------
+
 1. ChangePictureWithMindwave
 
 ![noname01](https://user-images.githubusercontent.com/34204786/51887573-b1d55600-23d7-11e9-8fa7-42421ab9554b.png)
@@ -25,6 +27,8 @@
 시작점 : X : 500, Y : 500 지점
 사용되는 값 : Delta, Theta, Low_alpha, High_alpha, Low_beta, High_beta,Low_gamma, Mid_gamma, 집중력, 명상력 값
 상세 내용 : 사용되는 8개의 값 중 제일 큰 값이 지정해놓은 색으로 색을 입히고 이전 좌표와 X축(집중력값), Y축(명상력값)에 따라 선의 길이와 위치가 
+
+---------------------------
 
 3. DrawPictureWithMindwave
 
@@ -59,6 +63,8 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 맨 위일 때 아래로 두칸 이동
 맨 아래일 때  위로 두칸 이동
 
+---------------------------
+
 4. DrawSpiralWithMindwave
 
 ![noname04](https://user-images.githubusercontent.com/34204786/51887585-ba2d9100-23d7-11e9-9215-13734a007f1a.png)
@@ -80,6 +86,8 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 
 나선형을 그릴 때 사용되는 선 하나하나의 길이는 집중력의 값이다. 
 즉, 마지막 좌표에서 집중력 값만큼 해당 X 혹은 Y의 값을 더하거나 빼서 좌표를 설정한다. 
+
+---------------------------
 
 5. GraphWithMindwave
 
@@ -107,6 +115,8 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 집중력 30 이상 : 투명도 60
 나머지 : 투명도 40
 
+---------------------------
+
 6. DrawCircleSpiralWithMindwave
 
 ![noname07](https://user-images.githubusercontent.com/34204786/51887583-b994fa80-23d7-11e9-8a66-2f66921d8305.png)
@@ -119,6 +129,8 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 
 집중력값이 명상력값보다 클 때 : 가로, 세로에 집중력 값을 더함
 명상력값이 집중력값보다 클 때 : 가로, 세로에 명상력 값을 뺌
+
+---------------------------
 
 7. RandomSquareWithMindwave
 
