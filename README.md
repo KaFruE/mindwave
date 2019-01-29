@@ -3,7 +3,7 @@
 
 1. ChangePictureWithMindwave
 
-![noname01](https://user-images.githubusercontent.com/34204786/51887178-24453680-23d6-11e9-93a7-ddbb39a16ff7.png)
+![noname01](https://user-images.githubusercontent.com/34204786/51887573-b1d55600-23d7-11e9-8fa7-42421ab9554b.png)
 
 설명 : 왼쪽 원본 사진을 보고 변화된 뇌파 결과를 픽셀단위로 오른쪽에 출력
 시작점 : 이미지 가로 길이 + 10 지점부터 시작
