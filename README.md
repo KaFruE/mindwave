@@ -15,6 +15,7 @@
 
 2. DrawLineWithMindwave
 
+![noname02](https://user-images.githubusercontent.com/34204786/51887581-b69a0a00-23d7-11e9-89b1-81d96ff5e8d1.png)
 
 설명 : 가장 마지막으로 설정된 좌표(500,500부터 시작)와 X축 (집중력값), Y축 (명상력값)으로 다음 좌표를 찍고 선으로 이어서 그림을 그림 
 시작점 : X : 500, Y : 500 지점
@@ -26,8 +27,7 @@ Delta, Theta, Low_alpha, High_alpha, Low_beta, High_beta,Low_gamma, Mid_gamma, �
 
 3. DrawPictureWithMindwave
 
-![noname02](https://user-images.githubusercontent.com/34204786/51887581-b69a0a00-23d7-11e9-89b1-81d96ff5e8d1.png)
-
+![noname03](https://user-images.githubusercontent.com/34204786/51887584-ba2d9100-23d7-11e9-9da8-ecb658b79e0c.png)
 
 설명 : 좌표(500,400부터 시작)부터 시작해서 여러 가지 값에 따라 8개의 방향으로 점(길이가 3인 정사각형)을 찍어 그리는 그림 
 시작점 : X : 500, Y : 400 지점
@@ -60,7 +60,6 @@ Mid_gamma값이 제일 클 때 : 밑으로 한칸
 
 4. DrawSpiralWithMindwave
 
-![noname03](https://user-images.githubusercontent.com/34204786/51887584-ba2d9100-23d7-11e9-9da8-ecb658b79e0c.png)
 ![noname04](https://user-images.githubusercontent.com/34204786/51887585-ba2d9100-23d7-11e9-9215-13734a007f1a.png)
 
 설명 : 좌표(500,500부터 시작)부터 시작해서 사각 나선형을 그리고 집중력의 크기에 따라 나선형의 크기가 변경
